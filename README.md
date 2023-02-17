@@ -1,0 +1,1 @@
+# react-native-setup-for-intel-mac
